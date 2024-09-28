@@ -82,6 +82,7 @@ module.exports = {
     calcularPotencia,
     restar,
     dividir,
+    funcionMultiplicar,
     saludar,
     esPar,
     calcularArea,
